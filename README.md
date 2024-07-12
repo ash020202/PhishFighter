@@ -2,6 +2,7 @@
 
 Welcome to the PhishFighter Form project! This web application is designed to raise awareness about phishing scams and encourages users to be cautious when sharing sensitive information online.
 
+**Visit Here** (https://ash020202.github.io/PhishFighter/PhishFig.html)
 ## Table of Contents
 
 - [Overview](#overview)
